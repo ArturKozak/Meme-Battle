@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 |Questions        |Answers                                         |
 |------------|--------------------------------------------|
-|## Why is the location of my shipment shown incorrectly on the map?|
+|**Why is the location of my shipment shown incorrectly on the map?**|
 |"enUS": "Why is the location of my shipment shown incorrectly on the map?",
   "deDE": "Hvorfor er placeringen af min forsendelse ikke vist korrekt på kortet?",
   "ruRU": "Почему местонахождение моего груза показано на карте неправильно?",
