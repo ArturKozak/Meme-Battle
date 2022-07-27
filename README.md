@@ -17,20 +17,20 @@ samples, guidance on mobile development, and a full API reference.
 
 |Questions        |Answers                                         |
 |------------|--------------------------------------------|
-|`**Why is the location of my shipment shown incorrectly on the map?**`|
-|"enUS": "Why is the location of my shipment shown incorrectly on the map?",
-  "deDE": "Hvorfor er placeringen af min forsendelse ikke vist korrekt på kortet?",
-  "ruRU": "Почему местонахождение моего груза показано на карте неправильно?",
-  "koKR": "내 배송 위치가 지도에 잘못 표시되는 이유는 무엇입니까?",
-  "itIT": "Perché la posizione della mia spedizione non è indicata correttamente sulla mappa?",
-  "frFR": "Pourquoi l'emplacement de mon envoi est-il mal indiqué sur la carte ?",
-  "zhCN": "为什么我的货件在地图上显示的位置不正确？",
-  "jaJP": "貨物の場所が地図に正しく表示されないのはなぜですか？"|"enUS": "Why is the location of my shipment shown incorrectly on the map?",
-                                                            "deDE": "Hvorfor er placeringen af min forsendelse ikke vist korrekt på kortet?",
-                                                            "ruRU": "Почему местонахождение моего груза показано на карте неправильно?",
-  "koKR": "내 배송 위치가 지도에 잘못 표시되는 이유는 무엇입니까?",
-  "itIT": "Perché la posizione della mia spedizione non è indicata correttamente sulla mappa?",
-  "frFR": "Pourquoi l'emplacement de mon envoi est-il mal indiqué sur la carte ?",
-  "zhCN": "为什么我的货件在地图上显示的位置不正确？",
-  "jaJP": "貨物の場所が地図に正しく表示されないのはなぜですか？"    |
+|**`Why is the location of my shipment shown incorrectly on the map?`**|
+|"enUS": "Why is the location of my shipment shown incorrectly on the map?",|"enUS": "Why is the location of my shipment shown incorrectly on the map?",
+  |"deDE": "Hvorfor er placeringen af min forsendelse ikke vist korrekt på kortet?",| "deDE": "Hvorfor er placeringen af min forsendelse ikke vist korrekt på kortet?",
+  |"ruRU": "Почему местонахождение моего груза показано на карте неправильно?",|"ruRU": "Почему местонахождение моего груза показано на карте неправильно?",
+  |"koKR": "내 배송 위치가 지도에 잘못 표시되는 이유는 무엇입니까?",|  "koKR": "내 배송 위치가 지도에 잘못 표시되는 이유는 무엇입니까?",
+  |"itIT": "Perché la posizione della mia spedizione non è indicata correttamente sulla mappa?",|  "itIT": "Perché la posizione della mia spedizione non è indicata correttamente sulla mappa?",
+  |"frFR": "Pourquoi l'emplacement de mon envoi est-il mal indiqué sur la carte ?",|  "frFR": "Pourquoi l'emplacement de mon envoi est-il mal indiqué sur la carte ?",
+  |"zhCN": "为什么我的货件在地图上显示的位置不正确？",|  "zhCN": "为什么我的货件在地图上显示的位置不正确？",
+  |"jaJP": "貨物の場所が地図に正しく表示されないのはなぜですか？"|  "jaJP": "貨物の場所が地図に正しく表示されないのはなぜですか？"    |
+
+
+
+
+
+
+
 
